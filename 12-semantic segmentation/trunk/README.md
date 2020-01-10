@@ -1,5 +1,5 @@
-# CarND-Semantic-Segmentation-P2
-Udacity Self-Driving Car Nanodegree - Semantic Segmentation Project
+Semantic-Segmentation-P2
+
 
 ![Road](images/road.gif)
 
